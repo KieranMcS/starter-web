@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kieran McSherry     mcsk@gmail.com      @mcsk  
 
 # THANKS
 
